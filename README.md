@@ -1,4 +1,4 @@
-# Hand-Detection
+# Hand Detection Using Transfer Learning 
 ![alt text](https://raw.githubusercontent.com/sameli74/Hand-Detection/master/examples/example2-detected.png)
 <!-- ![alt text](https://raw.githubusercontent.com/sameli74/Hand-Detection/master/examples/example4-detected.png) -->
 
