@@ -6,7 +6,7 @@ A Hand Detection system based on ResNet50 and SSD.
 
 
 # Training Procedure
-I collected a dataset of hands and labeled them using LabelImg. In addition, I used transfer learning to save time in training phase. 
+I collected a dataset of hands and labeled them using LabelImg. Afterwards,the transfer learning method is used to save time in training phase.
 
 # Dependencies
 * Opencv
